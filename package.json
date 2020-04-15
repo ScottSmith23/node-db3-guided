@@ -4,7 +4,8 @@
   "description": "Guided Project for Node DB3 Module",
   "main": "index.js",
   "scripts": {
-    "server": "nodemon index.js"
+    "server": "nodemon index.js",
+    "start": "node server.js"
   },
   "keywords": [],
   "author": "Lambda School",
@@ -17,5 +18,14 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.3"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ScottSmith23/node-db3-guided.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ScottSmith23/node-db3-guided/issues"
+  },
+  "homepage": "https://github.com/ScottSmith23/node-db3-guided#readme"
 }
